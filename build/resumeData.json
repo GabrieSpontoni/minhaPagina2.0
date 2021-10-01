@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name": "Gabriel Spontoni",
+    "description": "Olá, meu nome é Gabriel e seja muito bem vendo ao meu portfólio, sou desenvolvedor Full Stack cada vez mais apaixonado por programação, gosto de desafios e estou sempre disposto a aprender coisas novas",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gabriel.spontoni/",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gabriel-spontoni-4816b519a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/spontonigabriel/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GabrieSpontoni",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Universidade Federal de Mato Grosso do Sul",
+        "degree": "Bacharel em Engenharia de Computação",
+        "graduated": "Esperada para Agosto 2022",
+        "description": "Com início em 2017, a faculdade foi uma experiência bem completa, com cursos voltados para áreas de programação, eletrônica e processamento de sinais. Hoje estou cada vez mais empolgado com as novas tecnologias para aplicações web, em especial ReactJs que me fez enxergar a programação como nunca tinha visto, sempre procuro mesclar meus conheciementos obtidos na faculdade com trabalhos e projetos realizados, principalmente que envolvem lógica de programação."
+      }
+    ],
+    "work": [
+      {
+        "company": "Marvin",
+        "title": "Estagiário ",
+        "years": "Setembro 2021 - Presente",
+        "description": "Marvin é um sistema de coletas e vistorias para avaliação e de imóveis, ainda estou aprendendo muita coisa pois é um projeto relativamente complexo que envolve vários componentes em comunicação e integração com banco de dados Postgres, Marvin é feito inteiramente em ReactJS e está em constante evolução."
+      },
+      {
+        "company": "Zap Delivery",
+        "title": "Estágio",
+        "years": "Maio 2021 - Agosto 2021",
+        "description": "Zap Delivery é uma aplicação de entrega de comida, nesse estágio foi onde eu inicie minha jornada dentro do JavaScript e desde então não me vejo fazendo outra coisa a não ser desenvolver aplicações, durante o processo várias portas para o aprendizado de back-end com NodeJs foram abertas, dentre os projetos que realizei está o consumo de API's através de bibliotecas Node, inclusive a integração do Zap Delivery com o próprio Ifood."
+      },
+      {
+        "company": "Agetic",
+        "title": "Estágio",
+        "years": "Maio 2018 - maio 2020",
+        "description": "Aqui foi onde tudo começou dentro da minha carreira de TI, foi meu primeiro estágio que não envolvia nada de programação, porém foi onde aprendi como funciona a parte de manutenção dos computadores dentro da própria universidade, entre as atribuições estavam: Manutenção, instalação de software e aplicavos; Especificação, montagem, instalação e configuração de computadores; Idenficação e solução de folhas no funcionamento de computadores aplicando normas técnicas e padrões pré-definidos pela SEMAC/DISC/CGI/AGETIC. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "60%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "70%"
+      },
+      {
+        "name": "C",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
